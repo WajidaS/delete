@@ -1,1 +1,1 @@
-# README - creating first file in Github dircetly
+# README - creating first file in Github directly!
